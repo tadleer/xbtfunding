@@ -1,0 +1,16 @@
+{
+  "name": "xbtfunding",
+  "version": "0.0.1",
+  "description": "Bitmex XBT Funding Display",
+  "main": "bot.js",
+  "author": "Tadleer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "moment-countdown": "0.0.3",
+    "parse-json": "^4.0.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4"
+  }
+}
